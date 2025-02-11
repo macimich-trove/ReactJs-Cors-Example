@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cene",
+				"center"
+			],
+			[
+				"da",
+				"darkcyan"
+			],
+			[
+				"bl",
+				"cadetblue"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"co",
+				"cornflowerblue"
+			],
+			[
+				"ba",
+				"backface-visibility"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"re",
+				"royalblue"
+			],
+			[
+				"gr",
+				"greenyellow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"fony",
+				"font-family"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"darks",
+				"darkseagreen"
+			],
+			[
+				"wh",
+				"whitesmoke"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"floa",
+				"flood-opacity"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"ios",
+				"iostream"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/michael/github/RJS_portfolio/public/stylesheets/style.css",
+		"/home/michael/github/RJS_portfolio/Boilerplate",
+		"/home/michael/github/RJS_portfolio/app.js",
+		"/home/michael/github/RJS_portfolio/public/index.html",
+		"/home/michael/github/RJS_portfolio/node_modules/acorn/src/expression.js",
+		"/home/michael/github/RJS_portfolio/.ipynb_checkpoints/TESTCURRENT-checkpoint.ipynb",
+		"/home/michael/github/RJS_portfolio/routes/index.js",
+		"/home/michael/github/RJS_portfolio/node_modules/accepts/index.js",
+		"/home/michael/github/RJS_portfolio/node_modules/body-parser/lib/types/json.js",
+		"/home/michael/Desktop/B.cpp",
+		"/home/michael/Desktop/namespacep.cpp",
+		"/home/michael/Desktop/AY_EDU_FILES/7.1 Combining Selectors/solution.css",
+		"/home/michael/Desktop/AY_EDU_FILES/7.1 Combining Selectors/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/7.1 Combining Selectors/style.css",
+		"/home/michael/Desktop/AY_EDU_FILES/7.2 CSS Positioning/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/7.0 CSS Cascade/solution/solution.css",
+		"/home/michael/Desktop/AY_EDU_FILES/7.0 CSS Cascade/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/7.0 CSS Cascade/style.css",
+		"/home/michael/Desktop/AY_EDU_FILES/6.4 Motivation Meme Project/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/6.4 Motivation Meme Project/solution/solution.css",
+		"/home/michael/Desktop/AY_EDU_FILES/6.4 Motivation Meme Project/style.css",
+		"/home/michael/Desktop/AY_EDU_FILES/6.3 CSS Box Model/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/Capstone_1/contact.html",
+		"/home/michael/Desktop/AY_EDU_FILES/6.0 CSS Colors/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/FONTS_SECTION_6/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/Section_4_and_5/5.4 Color Vocab Project/solution/solution.html",
+		"/home/michael/Desktop/AY_EDU_FILES/Section_4_and_5/5.4 Color Vocab Project/solution/style.css",
+		"/home/michael/Desktop/AY_EDU_FILES/4.3 HTML Porfolio Project/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/4.0 File Paths/Folder0/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/4.0 File Paths/Folder0/solution.html",
+		"/home/michael/Desktop/AY_EDU_FILES/5.1. Adding CSS/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/5.3 CSS Selectors/style.css",
+		"/home/michael/Desktop/AY_EDU_FILES/5.3 CSS Selectors/index.html",
+		"/home/michael/Desktop/AY_EDU_FILES/5.3 CSS Selectors/solution/solution.html",
+		"/home/michael/Desktop/AY_EDU_FILES/5.3 CSS Selectors/solution/solution-style.css",
+		"/home/michael/Desktop/5.1. Adding CSS/internal.html",
+		"/home/michael/Desktop/5.1. Adding CSS/style.css",
+		"/home/michael/Desktop/5.1. Adding CSS/external.html",
+		"/home/michael/Desktop/5.1. Adding CSS/inline.html",
+		"/home/michael/Desktop/5.1. Adding CSS/Solution/external.html",
+		"/home/michael/Desktop/5.1. Adding CSS/Solution/style.css",
+		"/home/michael/Desktop/5.1. Adding CSS/Solution/internal.html",
+		"/home/michael/Desktop/5.1. Adding CSS/Solution/inline.html",
+		"/home/michael/Desktop/CFILE.cpp",
+		"/home/michael/Desktop/aa5.cpp",
+		"/home/michael/Desktop/aa5.h",
+		"/home/michael/Desktop/AA5.cpp",
+		"/home/michael/Desktop/A.cpp"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "layout.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 444.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

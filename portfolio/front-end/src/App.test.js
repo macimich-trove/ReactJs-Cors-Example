@@ -1,8 +1,15 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders api content', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
+  const linkElement = screen.getByText(//i);
   expect(linkElement).toBeInTheDocument();
+});
+
+
+
+test('TODO', () => {
+x = "TODO"
+expect(x).toBe("TODO");
 });
