@@ -1,2 +1,2 @@
-# RJS_API_DEMO
-API_CORS_AXIOS Demos
+# React Javascript 
+Cross Origin Fetching Demo
